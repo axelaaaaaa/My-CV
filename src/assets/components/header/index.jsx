@@ -1,9 +1,8 @@
 const ResumeHeader = () => {
-    const url = "../../src/assets/img/1.jpg"
     return (
             <header className="resume-header pt-4 pt-md-0">
     <div className="media flex-column flex-md-row">
-    <a><img src={url} alt="image" width={220} height={220} /></a>
+    <a><img  src="https://github.com/axelaaaaaa/My-CV/blob/master/src/assets/img/1.jpg?raw=true" alt="image" width={220} height={220} /></a>
     <div className="media-body p-4 d-flex flex-column flex-md-row mx-auto mx-lg-0">
         <div className="primary-info">
         <h1 className="name mt-0 mb-1 text-white text-uppercase text-uppercase">Alexandra J. A Tompunu</h1>
